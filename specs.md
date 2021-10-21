@@ -56,6 +56,7 @@ For each book:
  - totalQuantity: int
  - tags: []string
  - category?: string
+ - review: string
 
 ## Rentals
  - id: uuid
